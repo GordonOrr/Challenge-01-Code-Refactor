@@ -2,10 +2,10 @@
  Challenge-01-Code-Refactor
 
  Deployed application
-
+https://gordonorr.github.io/Challenge-01-Code-Refactor/
 
  GitHub Repository
-
+https://github.com/GordonOrr/Challenge-01-Code-Refactor
 
  Project Requirements
  Added HTML semantec elements
